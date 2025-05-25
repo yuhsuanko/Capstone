@@ -1,7 +1,6 @@
-# GenAI-Driven ED Admission Prediction
+# Applications of Generative AI in Emergency Department Admission Evaluation
 
-This repository contains the code and documentation for our UChicago Applied Data Science Capstone project:  
-**"Applications of Generative AI in Emergency Department Admission Evaluation."**
+This repository contains the code and documentation for our UChicago Applied Data Science Capstone project.
 
 ## Project Overview
 
